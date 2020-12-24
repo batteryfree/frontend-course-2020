@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/batteryfree/projects/frontend-course-2020/homeworks/roman.vlasov_batteryfree/11-dependency-injection/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/batteryfree/Документы/11-dependency-injection/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
